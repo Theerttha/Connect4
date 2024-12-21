@@ -1,0 +1,1134 @@
+('C:\\Users\\Theerttha '
+ 'S\\Desktop\\Python\\Connect4\\build\\connect4\\PYZ-00.pyz',
+ [('pkg_resources',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\uuid.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\imp.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('pygame',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.dual',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\dual.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.financial',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\financial.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\queue.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\typing.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'c:\\users\\theerttha '
+   's\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE')])

@@ -1,7 +1,6 @@
 import pygame as p
 import sys
 import random as r
-import time
 import copy
  
 class Block(p.sprite.Sprite):
@@ -25,80 +24,64 @@ ROW_COUNT=6
 COLUMN_COUNT=7
 n=-1
 def create():
-    l=[0,0,0,0,0,0,0]
-    
-    for i in range(6):
-        board.append(l[:])
-    for i in range(6):
-        for j in range(7):
-            not_clicked.append([310+j*55,200+i*55])
+   l=[0,0,0,0,0,0,0]
+   for i in range(6):
+      board.append(l[:])
+   for i in range(6):
+      for j in range(7):
+         not_clicked.append([310+j*55,200+i*55])
     
 def create_board():
-    white=(255,255,255)
-    comp=(248, 200, 220)
-    user = (176,224,230)
-    button=p.Surface((50,50))
-    p.draw.circle(button, comp, (25,25), 25)
-    screen.blit(button,(460,10))
-    font = p.font.SysFont('Candara', 30)
-    comp_text = font.render('Computer: ', True,white)
-    screen.blit(comp_text,(310,30))
-    button=p.Surface((50,50))
-    p.draw.circle(button, user, (25,25), 25)
-    screen.blit(button,(460,70))
-
-    user_text = font.render('User: ', True,white)
-  
-    screen.blit(user_text,(310,90))
-    y=200
-    
-    
-    for i in not_clicked:
-        button=p.Surface((50,50))
-        p.draw.circle(button, white, (25,25), 25)
-        screen.blit(button,(i[0],i[1]))
-        p.draw.rect(screen,(0,0,0),p.Rect((i[0],i[1]+50),(50,5)))
-    p.display.update()
+   white=(255,255,255)
+   comp=(248, 200, 220)
+   user = (176,224,230)
+   button=p.Surface((50,50))
+   p.draw.circle(button, comp, (25,25), 25)
+   screen.blit(button,(150,10))
+   font = p.font.SysFont('Candara', 30)
+   comp_text = font.render('Computer: ', True,white)
+   screen.blit(comp_text,(10,30))
+   button=p.Surface((50,50))
+   p.draw.circle(button, user, (25,25), 25)
+   screen.blit(button,(150,70))
+   user_text = font.render('User: ', True,white)
+   screen.blit(user_text,(10,90))
+   y=200
+   for i in not_clicked:
+      button=p.Surface((50,50))
+      p.draw.circle(button, white, (25,25), 25)
+      screen.blit(button,(i[0],i[1]))
+      p.draw.rect(screen,(0,0,0),p.Rect((i[0],i[1]+50),(50,5)))
+   p.display.update()
 def user_clicked(x,y):
-    user = (176,224,230)
-    obj=Block(user)
-    obj.rect.x=x
-    obj.rect.y=200
-    
-    sp.add(obj)
-    
-    while obj.rect.y<=y:
-
-
-        obj.rect.y+=1
-
-        sp.update()
-        sp.draw(screen)
-        
-        p.display.update()
-        create_board()
+   user = (176,224,230)
+   obj=Block(user)
+   obj.rect.x=x
+   obj.rect.y=200
+   sp.add(obj)
+   while obj.rect.y<=y:
+      obj.rect.y+=1
+      sp.update()
+      sp.draw(screen)   
+      p.display.update()
+      create_board()
  
 def computer_clicked(x,y):
-    comp=(248, 200, 220)
-    obj=Block(comp)
-    obj.rect.x=x
-    obj.rect.y=200
-    sp.add(obj)
-
-    while obj.rect.y<=y:
-        obj.rect.y+=1
-        sp.update()
-        sp.draw(screen)
-        p.display.update()
-        create_board()
-
-   
+   comp=(248, 200, 220)
+   obj=Block(comp)
+   obj.rect.x=x
+   obj.rect.y=200
+   sp.add(obj)
+   while obj.rect.y<=y:
+      obj.rect.y+=1
+      sp.update()
+      sp.draw(screen)
+      p.display.update()
+      create_board()
 
 p.init()
 
-
 def get_next_open_row(board, col):
-
    for ro in range(ROW_COUNT):
       if board[ro][col] == 0:
          return ro
@@ -347,7 +330,7 @@ def game(p,prev,n):
                        
                 
                         return 1
-                        break
+                        
                      if not_clicked==[]:
     
                         return 0
@@ -367,8 +350,7 @@ def game(p,prev,n):
           
                         return 0
                      if winning_move(board,1)==True:
-                      
-           
+                        
                         return -1
      
                      prev=pos
@@ -439,8 +421,7 @@ while n<0:
          create()
          create_board()
          outcome=game(p,-1,n)
-         
-
+         p.time.delay(1000)
          n=-2
 
       if n==-2:
