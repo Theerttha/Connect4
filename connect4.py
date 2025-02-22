@@ -31,10 +31,9 @@ def create():
       for j in range(7):
          not_clicked.append([310+j*55,200+i*55])
     
-def create_board():
+def create_board(user,comp):
    white=(255,255,255)
-   comp=(248, 200, 220)
-   user = (176,224,230)
+  
    button=p.Surface((50,50))
    p.draw.circle(button, comp, (25,25), 25)
    screen.blit(button,(150,10))
@@ -53,8 +52,8 @@ def create_board():
       screen.blit(button,(i[0],i[1]))
       p.draw.rect(screen,(0,0,0),p.Rect((i[0],i[1]+50),(50,5)))
    p.display.update()
-def user_clicked(x,y):
-   user = (176,224,230)
+def user_clicked(x,y,user,comp):
+ 
    obj=Block(user)
    obj.rect.x=x
    obj.rect.y=200
@@ -64,10 +63,9 @@ def user_clicked(x,y):
       sp.update()
       sp.draw(screen)   
       p.display.update()
-      create_board()
+      create_board(user,comp)
  
-def computer_clicked(x,y):
-   comp=(248, 200, 220)
+def computer_clicked(x,y,user,comp):
    obj=Block(comp)
    obj.rect.x=x
    obj.rect.y=200
@@ -77,7 +75,7 @@ def computer_clicked(x,y):
       sp.update()
       sp.draw(screen)
       p.display.update()
-      create_board()
+      create_board(user,comp)
 
 p.init()
 
@@ -275,11 +273,10 @@ def minimax(board, depth, alpha, beta, maximisingPlayer):
             break
       return column, value
 
-def game(p,prev,n):
+def game(p,prev,n,user,comp):
   
    play=1
-   user = (176,224,230)
-   comp=(248, 200, 220)
+
    font = p.font.SysFont('Candera', 50)
    while play==1:
       for event in p.event.get():
@@ -297,7 +294,7 @@ def game(p,prev,n):
             drop_piece(board,0,first,1)
             first=first*55+310
             not_clicked.remove([first,475])
-            computer_clicked(first,475)
+            computer_clicked(first,475,user,comp)
             p.display.update()
             p.draw.rect(screen,(0,0,0),p.Rect((430,130),(300,50)))
                   
@@ -320,7 +317,7 @@ def game(p,prev,n):
                   if [x,y] in not_clicked:
                      not_clicked.remove([x,y])
                      clicked_user.append([x2,5-avail_col[x2]])
-                     user_clicked(x,y)
+                     user_clicked(x,y,user,comp)
                      drop_piece(board,5-avail_col[x2],x2,-1)
                      avail_col[x2]-=1
                             
@@ -345,7 +342,7 @@ def game(p,prev,n):
                      avail_col[first]-=1
                      first=first*55+310
                      not_clicked.remove([first,last])
-                     computer_clicked(first,last)
+                     computer_clicked(first,last,user,comp)
                      if not_clicked==[]:
           
                         return 0
@@ -407,7 +404,8 @@ def result(outcome):
    return -2
    
 while n<0:
-        
+   user=(42, 170, 138)
+   comp=(215, 0, 64)
    for event in p.event.get():
       if event.type == p.QUIT:
             p.quit()
@@ -419,8 +417,8 @@ while n<0:
      
          screen.fill((0,0,0))
          create()
-         create_board()
-         outcome=game(p,-1,n)
+         create_board(user,comp)
+         outcome=game(p,-1,n,user,comp)
          p.time.delay(1000)
          n=-2
 
