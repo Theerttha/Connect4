@@ -1,7 +1,9 @@
 # Connect4
-Single player game
+Single player
 
 Minimax algorithm is implemented to enable the computer to make the optimal move
+
+Number of moves the algorithm looks ahead while evaluating the best possible move is set as 3.
 
 Credits for minimax algorithm: https://roboticsproject.readthedocs.io/en/latest/ConnectFourAlgorithm.html
 
